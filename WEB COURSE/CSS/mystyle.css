@@ -1,0 +1,21 @@
+.menu
+{
+    background-color: burlywood;
+color:white;
+}
+
+    .title
+    {
+background-color: hsl(92, 100%, 88%);
+height:75px;
+    }
+
+    .content
+    {
+background-color:aliceblue;
+    }
+    .foot
+    {
+background-color:brown;
+color:white;
+    }
